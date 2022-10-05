@@ -1,4 +1,4 @@
-# Adult_Child_Classifier
+# Adult vs. Child Classifier
 ML model to classify images of adults and children
 
 Dataset source is from Kaggle user IRON486 at the below url:
